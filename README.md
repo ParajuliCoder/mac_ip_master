@@ -39,7 +39,7 @@ README.md           # Documentation
 
 ```bash
 git clone https://github.com/ParajuliCoder/mac_ip_master.git
-cd mac_ip_changer
+cd mac_ip_master
 ```
 
 ### 2️⃣ Make the Script Executable
