@@ -38,7 +38,7 @@ README.md           # Documentation
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/ParajuliCoder/mac_ip_changer.git
+git clone https://github.com/ParajuliCoder/mac_ip_master.git
 cd mac_ip_changer
 ```
 
